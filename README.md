@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/nathanielhsaer/">
   <img align="left" alt="Nathaniel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://discord.com/users/552814506070507531">
+<a href="https://discord.com/users/745398218883465337">
     <img align ="left" alt="Nathaniel's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
 
@@ -46,7 +46,7 @@ I'm Nathaniel Saer, a Web Developer 🚀 and general Programmer from England.
 
 
 
-![DeltaCoderr's Github Stats.](https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true)
+![SSlayer9's Github Stats.](https://github-readme-stats.vercel.app/api?username=sslayer9&show_icons=true&hide_border=true)
 
 
 
