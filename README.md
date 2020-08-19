@@ -1,29 +1,28 @@
-### Hi there 👋, I'm Subodh! (AKA DeltaCoderr).
+### Hi there 👋, I'm Nathaniel!
 
 <br/>
-<a href="https://www.instagram.com/delta_5621/">
-  <img align="left" alt="Subodh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/nathanielhsaer/">
+  <img align="left" alt="Nathaniel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/552814506070507531">
-    <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="left" alt="Nathaniel's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
 
-![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
 
 <br/>
 
-Hey, I'm Subodh Inamdar, a Web Developer 🚀, Open Source Developer from India. ~~And a Weeb.~~
+I'm Nathaniel Saer, a Web Developer 🚀 and general Programmer from England.
 
  **Information:**
 
 - 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
-- 🌱 I’m currently learning  **React.JS and C++.**
+- 🌱 I’m currently learning  **React.JS, PHP and Python.**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
-- 🤔 I’m looking for help with  **Data Structures and DP stuff.**
-- 💬 Ask me about  Anything related to **Tech.**
-- 📫 Contact me at :  **subodhinamdar99@gmail.com.**
+- 🤔 I’m looking for help with  **Python module publishing.**
+- 💬 Ask me about  Anything related to **Code or Music.**
+- 📫 Contact me at :  **theultimatelycan@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
-- ⚡ Fun fact : **JavaScript >>>> Python.**
+- ⚡ Fun fact : **Typescript is just JavaScript that throws more tantrums.**
 
 **Languages and Tools:**  
 
