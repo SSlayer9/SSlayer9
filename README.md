@@ -1,17 +1,15 @@
-### Hi there 👋, I'm Nathaniel!
+### Hi there 👋, I'm SSlayer9!
 
 <br/>
-<a href="https://www.instagram.com/nathanielhsaer/">
-  <img align="left" alt="Nathaniel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 <a href="https://discord.com/users/745398218883465337">
-    <img align ="left" alt="Nathaniel's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="left" alt="SSlayer9's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
 
 
 <br/>
 
-I'm Nathaniel Saer, a Web Developer 🚀 and general Programmer from England.
+I'm SSlayer9, a Web Developer 🚀 and general Programmer from England.
 
  **Information:**
 
